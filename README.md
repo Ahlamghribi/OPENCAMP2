@@ -3,6 +3,12 @@
 Wassit is a powerful B2B e-commerce platform designed for import-export businesses, providing a seamless experience for connecting global suppliers and buyers. Wassit streamlines the import-export process and facilitates communication, product discovery, and transaction security to enable successful international trade.
 
 ![image](https://github.com/user-attachments/assets/d2ca2ae6-2edb-4d8e-beb9-da6e261f68b6)
+![image](https://github.com/user-attachments/assets/e0430f64-d0b2-4d30-af20-31ce0a951415)
+![image](https://github.com/user-attachments/assets/478c359f-dbe3-4aa6-92ae-b24b0833ccff)
+![Uploading image.png…]()
+
+
+
 
 ## Features
 
