@@ -2,13 +2,12 @@
 
 Wassit is a powerful B2B e-commerce platform designed for import-export businesses, providing a seamless experience for connecting global suppliers and buyers. Wassit streamlines the import-export process and facilitates communication, product discovery, and transaction security to enable successful international trade.
 
+> **Achievement**: This project earned **2nd place** in a competitive hackathon, recognized for its innovative approach to B2B commerce and international trade facilitation.
+
 ![image](https://github.com/user-attachments/assets/d2ca2ae6-2edb-4d8e-beb9-da6e261f68b6)
 ![image](https://github.com/user-attachments/assets/e0430f64-d0b2-4d30-af20-31ce0a951415)
 ![image](https://github.com/user-attachments/assets/478c359f-dbe3-4aa6-92ae-b24b0833ccff)
 ![image](https://github.com/user-attachments/assets/13823d9b-add9-4efb-b916-092b4757c5a1)
-
-
-
 
 ## Features
 
@@ -94,5 +93,5 @@ A feature specifically for suppliers to analyze trends, popular products, and cu
 
 ## Additional Resources
 
-- https://docs.google.com/presentation/d/1GeRgCTdUZFaKVipBC2CNgF9beucQSJmo/edit?usp=sharing&ouid=101368066895310556625&rtpof=true&sd=true - Link to the project's presentation.
-- https://drive.google.com/file/d/1vKdBTovf9eTNgMs7XTp1zKmWxITmuU8h/view?usp=sharing - Link to the Business Model Canvas for Wassit.
+- [Project Presentation](https://docs.google.com/presentation/d/1GeRgCTdUZFaKVipBC2CNgF9beucQSJmo/edit?usp=sharing&ouid=101368066895310556625&rtpof=true&sd=true)
+- [Business Model Canvas (BMC)](https://drive.google.com/file/d/1vKdBTovf9eTNgMs7XTp1zKmWxITmuU8h/view?usp=sharing)
